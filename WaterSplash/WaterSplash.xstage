@@ -4,6 +4,37 @@
   <element id="4" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
    </drawings>
   </element>
   <element id="6" elementName="Splah" elementFolder="Splah" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -96,10 +127,40 @@
  <scenes>
   <scene name="Top" id="0949789a74b00abc" nbframes="45">
    <columns>
-    <column type="0" name="Drawing_1" display="false" displayOrder="1" width="100" anonymous="true" id="4">
-     <elementSeq exposures="1-3,6,8-16,18,20,21" val="1" id="4"/>
+    <column type="0" name="Drawing_1" displayOrder="1" width="100" anonymous="true" id="4">
+     <elementSeq exposures="2" val="24" id="4"/>
+     <elementSeq exposures="3" val="25" id="4"/>
+     <elementSeq exposures="4" val="26" id="4"/>
+     <elementSeq exposures="5" val="27" id="4"/>
+     <elementSeq exposures="6" val="28" id="4"/>
+     <elementSeq exposures="7" val="29" id="4"/>
+     <elementSeq exposures="8" val="30" id="4"/>
+     <elementSeq exposures="9" val="31" id="4"/>
+     <elementSeq exposures="10" val="32" id="4"/>
+     <elementSeq exposures="16" val="2" id="4"/>
+     <elementSeq exposures="17" val="3" id="4"/>
+     <elementSeq exposures="18" val="4" id="4"/>
+     <elementSeq exposures="19" val="5" id="4"/>
+     <elementSeq exposures="20" val="6" id="4"/>
+     <elementSeq exposures="21" val="7" id="4"/>
+     <elementSeq exposures="22" val="8" id="4"/>
+     <elementSeq exposures="23" val="9" id="4"/>
+     <elementSeq exposures="24" val="10" id="4"/>
+     <elementSeq exposures="25" val="11" id="4"/>
+     <elementSeq exposures="26" val="12" id="4"/>
+     <elementSeq exposures="27" val="13" id="4"/>
+     <elementSeq exposures="28" val="14" id="4"/>
+     <elementSeq exposures="29" val="15" id="4"/>
+     <elementSeq exposures="30" val="16" id="4"/>
+     <elementSeq exposures="31" val="17" id="4"/>
+     <elementSeq exposures="32" val="18" id="4"/>
+     <elementSeq exposures="33" val="19" id="4"/>
+     <elementSeq exposures="34" val="20" id="4"/>
+     <elementSeq exposures="35" val="21" id="4"/>
+     <elementSeq exposures="36" val="22" id="4"/>
+     <elementSeq exposures="37" val="23" id="4"/>
     </column>
-    <column type="0" name="Splah" displayOrder="2" width="100" anonymous="true" id="6">
+    <column type="0" name="Splah" display="false" displayOrder="2" width="100" anonymous="true" id="6">
      <elementSeq exposures="2" val="26" id="6"/>
      <elementSeq exposures="3" val="37" id="6"/>
      <elementSeq exposures="4" val="27" id="6"/>
@@ -210,7 +271,6 @@
      </module>
      <module type="READ" name="Drawing_1" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -315,6 +375,7 @@
      </module>
      <module type="READ" name="Splah" pos="0,0,0" publishUnderTab="Splah">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
