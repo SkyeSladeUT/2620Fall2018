@@ -5,4 +5,5 @@
  <element id="12" elementName="BackGround" elementFolder="BackGround.12" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="17" elementName="Splash2" elementFolder="Splash2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="18" elementName="WaterColour" elementFolder="WaterColour" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="19" elementName="Ripples" elementFolder="Ripples" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
