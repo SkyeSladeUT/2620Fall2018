@@ -55,13 +55,6 @@
     <dwg name="22"/>
     <dwg name="23"/>
     <dwg name="24"/>
-    <dwg name="25"/>
-    <dwg name="26"/>
-    <dwg name="27"/>
-    <dwg name="28"/>
-    <dwg name="29"/>
-    <dwg name="30"/>
-    <dwg name="31"/>
    </drawings>
   </element>
   <element id="4" elementName="Mouse2" elementFolder="Mouse2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -133,14 +126,7 @@
      <elementSeq exposures="32" val="21" id="3"/>
      <elementSeq exposures="33" val="22" id="3"/>
      <elementSeq exposures="34-37" val="23" id="3"/>
-     <elementSeq exposures="38-40" val="24" id="3"/>
-     <elementSeq exposures="41-59,97-105" val="25" id="3"/>
-     <elementSeq exposures="60" val="31" id="3"/>
-     <elementSeq exposures="106" val="26" id="3"/>
-     <elementSeq exposures="107" val="27" id="3"/>
-     <elementSeq exposures="108" val="29" id="3"/>
-     <elementSeq exposures="109-110" val="28" id="3"/>
-     <elementSeq exposures="111" val="30" id="3"/>
+     <elementSeq exposures="38" val="24" id="3"/>
     </column>
     <column type="0" name="Mouse2" displayOrder="3" width="100" anonymous="true" id="4">
      <elementSeq exposures="1,8" val="1" id="4"/>
