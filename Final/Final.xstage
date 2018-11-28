@@ -176,6 +176,46 @@
     <dwg name="143"/>
     <dwg name="144"/>
     <dwg name="145"/>
+    <dwg name="146"/>
+    <dwg name="147"/>
+    <dwg name="148"/>
+    <dwg name="149"/>
+    <dwg name="150"/>
+    <dwg name="151"/>
+    <dwg name="152"/>
+    <dwg name="153"/>
+    <dwg name="154"/>
+    <dwg name="155"/>
+    <dwg name="156"/>
+    <dwg name="157"/>
+    <dwg name="158"/>
+    <dwg name="159"/>
+    <dwg name="160"/>
+    <dwg name="161"/>
+    <dwg name="162"/>
+    <dwg name="163"/>
+    <dwg name="164"/>
+    <dwg name="165"/>
+    <dwg name="166"/>
+    <dwg name="167"/>
+    <dwg name="168"/>
+    <dwg name="169"/>
+    <dwg name="170"/>
+    <dwg name="171"/>
+    <dwg name="172"/>
+    <dwg name="173"/>
+    <dwg name="174"/>
+    <dwg name="175"/>
+    <dwg name="176"/>
+    <dwg name="177"/>
+    <dwg name="178"/>
+    <dwg name="179"/>
+    <dwg name="180"/>
+    <dwg name="181"/>
+    <dwg name="182"/>
+    <dwg name="183"/>
+    <dwg name="184"/>
+    <dwg name="185"/>
    </drawings>
   </element>
   <element id="4" elementName="Mouse2" elementFolder="Mouse2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -266,6 +306,7 @@
     <dwg name="92"/>
     <dwg name="93"/>
     <dwg name="42"/>
+    <dwg name="6"/>
    </drawings>
   </element>
  </elements>
@@ -439,6 +480,45 @@
      <elementSeq exposures="180,185" val="135" id="3"/>
      <elementSeq exposures="181,184" val="136" id="3"/>
      <elementSeq exposures="182-183" val="137" id="3"/>
+     <elementSeq exposures="188-189" val="146" id="3"/>
+     <elementSeq exposures="190" val="147" id="3"/>
+     <elementSeq exposures="191-192" val="148" id="3"/>
+     <elementSeq exposures="193-194" val="149" id="3"/>
+     <elementSeq exposures="195" val="150" id="3"/>
+     <elementSeq exposures="196-197" val="151" id="3"/>
+     <elementSeq exposures="198" val="152" id="3"/>
+     <elementSeq exposures="199-200" val="153" id="3"/>
+     <elementSeq exposures="201-202" val="154" id="3"/>
+     <elementSeq exposures="203" val="155" id="3"/>
+     <elementSeq exposures="204-206" val="156" id="3"/>
+     <elementSeq exposures="207-208" val="157" id="3"/>
+     <elementSeq exposures="209-210" val="158" id="3"/>
+     <elementSeq exposures="211" val="159" id="3"/>
+     <elementSeq exposures="212-213" val="160" id="3"/>
+     <elementSeq exposures="214" val="161" id="3"/>
+     <elementSeq exposures="215" val="163" id="3"/>
+     <elementSeq exposures="216" val="162" id="3"/>
+     <elementSeq exposures="217-218" val="164" id="3"/>
+     <elementSeq exposures="219" val="165" id="3"/>
+     <elementSeq exposures="220" val="166" id="3"/>
+     <elementSeq exposures="221" val="168" id="3"/>
+     <elementSeq exposures="222-225" val="167" id="3"/>
+     <elementSeq exposures="226-227" val="170" id="3"/>
+     <elementSeq exposures="228" val="172" id="3"/>
+     <elementSeq exposures="229-230" val="171" id="3"/>
+     <elementSeq exposures="231" val="173" id="3"/>
+     <elementSeq exposures="232" val="174" id="3"/>
+     <elementSeq exposures="233" val="175" id="3"/>
+     <elementSeq exposures="234" val="176" id="3"/>
+     <elementSeq exposures="235-236" val="177" id="3"/>
+     <elementSeq exposures="237" val="178" id="3"/>
+     <elementSeq exposures="238-239" val="179" id="3"/>
+     <elementSeq exposures="240" val="180" id="3"/>
+     <elementSeq exposures="241-242" val="181" id="3"/>
+     <elementSeq exposures="243" val="182" id="3"/>
+     <elementSeq exposures="244" val="183" id="3"/>
+     <elementSeq exposures="245" val="184" id="3"/>
+     <elementSeq exposures="246-247" val="185" id="3"/>
     </column>
     <column type="0" name="Mouse2" displayOrder="3" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-7,8" val="1" id="4"/>
@@ -491,21 +571,9 @@
      <elementSeq exposures="170-171" val="58" id="4"/>
      <elementSeq exposures="172-173" val="59" id="4"/>
     </column>
-    <column type="0" name="ConstructionLines" display="false" displayOrder="4" width="100" anonymous="true" id="5">
+    <column type="0" name="ConstructionLines" displayOrder="4" width="100" anonymous="true" id="5">
      <elementSeq exposures="1" val="5" id="5"/>
-     <elementSeq exposures="103" val="38" id="5"/>
-     <elementSeq exposures="104-105" val="36" id="5"/>
-     <elementSeq exposures="106-107" val="37" id="5"/>
-     <elementSeq exposures="108-109" val="34" id="5"/>
-     <elementSeq exposures="110-111" val="42" id="5"/>
-     <elementSeq exposures="120-121" val="89" id="5"/>
-     <elementSeq exposures="122-123" val="90" id="5"/>
-     <elementSeq exposures="124-125" val="91" id="5"/>
-     <elementSeq exposures="126" val="92" id="5"/>
-     <elementSeq exposures="127" val="93" id="5"/>
-     <elementSeq exposures="128" val="33" id="5"/>
-     <elementSeq exposures="132" val="99" id="5"/>
-     <elementSeq exposures="143" val="4" id="5"/>
+     <elementSeq exposures="188" val="6" id="5"/>
     </column>
    </columns>
    <options>
@@ -882,7 +950,6 @@
      </module>
      <module type="READ" name="ConstructionLines" pos="0,0,0" publishUnderTab="ConstructionLines">
       <options>
-       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
