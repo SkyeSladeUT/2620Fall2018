@@ -683,6 +683,32 @@
     <dwg name="42"/>
     <dwg name="43"/>
     <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
+    <dwg name="54"/>
+    <dwg name="55"/>
+    <dwg name="56"/>
+    <dwg name="57"/>
+    <dwg name="58"/>
+    <dwg name="59"/>
+    <dwg name="60"/>
+    <dwg name="61"/>
+    <dwg name="62"/>
+   </drawings>
+  </element>
+  <element id="10" elementName="Cleaning" elementFolder="Cleaning" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
    </drawings>
   </element>
  </elements>
@@ -699,10 +725,10 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0959fee86f900a6a" nbframes="304">
+  <scene name="Top" id="0959fee86f900a6a" nbframes="307">
    <columns>
-    <column type="0" name="Drawing" displayOrder="7" width="100" anonymous="true" id="1">
-     <elementSeq exposures="1-2,3-25,26-49,50-53,54-101,102-113,114-158,159-167,168-198,199-208,209-230,231-300,301-304" val="1" id="1"/>
+    <column type="0" name="Drawing" displayOrder="8" width="36" anonymous="true" id="1">
+     <elementSeq exposures="1-2,3-25,26-49,50-53,54-101,102-113,114-158,159-167,168-198,199-208,209-230,231-300,301-307" val="1" id="1"/>
     </column>
     <column type="0" name="Test" displayOrder="3" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-2" val="1" id="2"/>
@@ -934,7 +960,7 @@
      <elementSeq exposures="297,301" val="245" id="3"/>
      <elementSeq exposures="298-300" val="241" id="3"/>
     </column>
-    <column type="0" name="Mouse2" displayOrder="5" width="100" anonymous="true" id="4">
+    <column type="0" name="Mouse2" display="false" displayOrder="6" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
      <elementSeq exposures="2" val="77" id="4"/>
      <elementSeq exposures="3" val="78" id="4"/>
@@ -995,9 +1021,9 @@
      <elementSeq exposures="166-167" val="56" id="4"/>
      <elementSeq exposures="168-169" val="57" id="4"/>
      <elementSeq exposures="170-171" val="58" id="4"/>
-     <elementSeq exposures="172" val="59" id="4"/>
+     <elementSeq exposures="172-173" val="59" id="4"/>
     </column>
-    <column type="0" name="ConstructionLines" displayOrder="6" width="100" anonymous="true" id="5">
+    <column type="0" name="ConstructionLines" displayOrder="7" width="100" anonymous="true" id="5">
      <elementSeq exposures="1" val="5" id="5"/>
      <elementSeq exposures="188" val="6" id="5"/>
      <elementSeq exposures="193-194" val="149_1" id="5"/>
@@ -1222,7 +1248,7 @@
      <elementSeq exposures="282-283" val="235" id="7"/>
      <elementSeq exposures="284" val="236" id="7"/>
      <elementSeq exposures="285" val="237" id="7"/>
-     <elementSeq exposures="286-287,295,303,304" val="238" id="7"/>
+     <elementSeq exposures="286-287,295,303,304-307" val="238" id="7"/>
      <elementSeq exposures="288,294" val="242" id="7"/>
      <elementSeq exposures="289,293" val="243" id="7"/>
      <elementSeq exposures="290-292" val="240" id="7"/>
@@ -1230,7 +1256,7 @@
      <elementSeq exposures="297,301" val="245" id="7"/>
      <elementSeq exposures="298-300" val="241" id="7"/>
     </column>
-    <column type="0" name="CleanedMouse2" displayOrder="4" width="100" anonymous="true" id="8">
+    <column type="0" name="CleanedMouse2" displayOrder="5" width="100" anonymous="true" id="8">
      <elementSeq exposures="1" val="1" id="8"/>
      <elementSeq exposures="2" val="2" id="8"/>
      <elementSeq exposures="3" val="3" id="8"/>
@@ -1273,6 +1299,28 @@
      <elementSeq exposures="131,135" val="42" id="8"/>
      <elementSeq exposures="132-134" val="43" id="8"/>
      <elementSeq exposures="139" val="44" id="8"/>
+     <elementSeq exposures="140" val="45" id="8"/>
+     <elementSeq exposures="141" val="46" id="8"/>
+     <elementSeq exposures="142-143" val="47" id="8"/>
+     <elementSeq exposures="144-145" val="48" id="8"/>
+     <elementSeq exposures="146-147" val="49" id="8"/>
+     <elementSeq exposures="148-149" val="50" id="8"/>
+     <elementSeq exposures="150-151" val="51" id="8"/>
+     <elementSeq exposures="152-153" val="52" id="8"/>
+     <elementSeq exposures="154-155" val="53" id="8"/>
+     <elementSeq exposures="156-157" val="54" id="8"/>
+     <elementSeq exposures="158-159" val="55" id="8"/>
+     <elementSeq exposures="160-161" val="56" id="8"/>
+     <elementSeq exposures="162-163" val="57" id="8"/>
+     <elementSeq exposures="164-165" val="58" id="8"/>
+     <elementSeq exposures="166-167" val="59" id="8"/>
+     <elementSeq exposures="168-169" val="60" id="8"/>
+     <elementSeq exposures="170-171" val="61" id="8"/>
+     <elementSeq exposures="172-173" val="62" id="8"/>
+    </column>
+    <column type="0" name="Cleaning" display="false" displayOrder="4" width="100" anonymous="true" id="10">
+     <elementSeq exposures="1" val="2" id="10"/>
+     <elementSeq exposures="2" val="4" id="10"/>
     </column>
    </columns>
    <options>
@@ -1648,6 +1696,111 @@
        <canAnimate val="true"/>
       </attrs>
      </module>
+     <module type="READ" name="Cleaning" pos="0,0,0" publishUnderTab="Cleaning">
+      <options>
+       <disabled val="true"/>
+       <version val="1"/>
+       <collapsed val="false"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="Cleaning">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
      <module type="READ" name="CleanedMouse2" pos="0,0,0" publishUnderTab="CleanedMouse2">
       <options>
        <version val="1"/>
@@ -1754,6 +1907,7 @@
      </module>
      <module type="READ" name="Mouse2" pos="0,0,0" publishUnderTab="Mouse2">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -2069,9 +2223,10 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="CleanedMouse" in="Composite" inport="6"/>
-     <link out="Mouse1" in="Composite" inport="5"/>
-     <link out="Test" in="Composite" inport="4"/>
+     <link out="CleanedMouse" in="Composite" inport="7"/>
+     <link out="Mouse1" in="Composite" inport="6"/>
+     <link out="Test" in="Composite" inport="5"/>
+     <link out="Cleaning" in="Composite" inport="4"/>
      <link out="CleanedMouse2" in="Composite" inport="3"/>
      <link out="Mouse2" in="Composite" inport="2"/>
      <link out="ConstructionLines" in="Composite" inport="1"/>

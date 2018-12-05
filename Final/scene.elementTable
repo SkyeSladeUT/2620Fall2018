@@ -7,4 +7,5 @@
  <element id="5" elementName="ConstructionLines" elementFolder="ConstructionLines" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="CleanedMouse" elementFolder="CleanedMouse" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="8" elementName="CleanedMouse2" elementFolder="CleanedMouse2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="Cleaning" elementFolder="Cleaning" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
