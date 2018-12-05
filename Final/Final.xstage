@@ -516,6 +516,173 @@
     <dwg name="57"/>
     <dwg name="59"/>
     <dwg name="61"/>
+    <dwg name="62"/>
+    <dwg name="63"/>
+    <dwg name="95"/>
+    <dwg name="96"/>
+    <dwg name="97"/>
+    <dwg name="98"/>
+    <dwg name="99"/>
+    <dwg name="100"/>
+    <dwg name="101"/>
+    <dwg name="102"/>
+    <dwg name="103"/>
+    <dwg name="111"/>
+    <dwg name="112"/>
+    <dwg name="113"/>
+    <dwg name="114"/>
+    <dwg name="115"/>
+    <dwg name="116"/>
+    <dwg name="117"/>
+    <dwg name="118"/>
+    <dwg name="119"/>
+    <dwg name="120"/>
+    <dwg name="121"/>
+    <dwg name="122"/>
+    <dwg name="123"/>
+    <dwg name="124"/>
+    <dwg name="125"/>
+    <dwg name="104"/>
+    <dwg name="105"/>
+    <dwg name="106"/>
+    <dwg name="107"/>
+    <dwg name="108"/>
+    <dwg name="126"/>
+    <dwg name="127"/>
+    <dwg name="140"/>
+    <dwg name="141"/>
+    <dwg name="142"/>
+    <dwg name="143"/>
+    <dwg name="144"/>
+    <dwg name="145"/>
+    <dwg name="129"/>
+    <dwg name="135"/>
+    <dwg name="136"/>
+    <dwg name="137"/>
+    <dwg name="146"/>
+    <dwg name="147"/>
+    <dwg name="148"/>
+    <dwg name="191"/>
+    <dwg name="192"/>
+    <dwg name="193"/>
+    <dwg name="194"/>
+    <dwg name="195"/>
+    <dwg name="196"/>
+    <dwg name="197"/>
+    <dwg name="198"/>
+    <dwg name="199"/>
+    <dwg name="200"/>
+    <dwg name="159"/>
+    <dwg name="160"/>
+    <dwg name="161"/>
+    <dwg name="163"/>
+    <dwg name="162"/>
+    <dwg name="164"/>
+    <dwg name="165"/>
+    <dwg name="166"/>
+    <dwg name="168"/>
+    <dwg name="167"/>
+    <dwg name="170"/>
+    <dwg name="172"/>
+    <dwg name="171"/>
+    <dwg name="173"/>
+    <dwg name="174"/>
+    <dwg name="175"/>
+    <dwg name="176"/>
+    <dwg name="177"/>
+    <dwg name="178"/>
+    <dwg name="179"/>
+    <dwg name="202"/>
+    <dwg name="203"/>
+    <dwg name="204"/>
+    <dwg name="205"/>
+    <dwg name="206"/>
+    <dwg name="207"/>
+    <dwg name="208"/>
+    <dwg name="209"/>
+    <dwg name="210"/>
+    <dwg name="211"/>
+    <dwg name="212"/>
+    <dwg name="214"/>
+    <dwg name="215"/>
+    <dwg name="216"/>
+    <dwg name="217"/>
+    <dwg name="218"/>
+    <dwg name="220"/>
+    <dwg name="221"/>
+    <dwg name="222"/>
+    <dwg name="223"/>
+    <dwg name="224"/>
+    <dwg name="225"/>
+    <dwg name="226"/>
+    <dwg name="227"/>
+    <dwg name="228"/>
+    <dwg name="229"/>
+    <dwg name="230"/>
+    <dwg name="231"/>
+    <dwg name="232"/>
+    <dwg name="233"/>
+    <dwg name="234"/>
+    <dwg name="235"/>
+    <dwg name="236"/>
+    <dwg name="237"/>
+    <dwg name="238"/>
+    <dwg name="242"/>
+    <dwg name="243"/>
+    <dwg name="240"/>
+    <dwg name="244"/>
+    <dwg name="245"/>
+    <dwg name="241"/>
+    <dwg name="149"/>
+    <dwg name="150"/>
+   </drawings>
+  </element>
+  <element id="8" elementName="CleanedMouse2" elementFolder="CleanedMouse2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
    </drawings>
   </element>
  </elements>
@@ -534,7 +701,7 @@
  <scenes>
   <scene name="Top" id="0959fee86f900a6a" nbframes="304">
    <columns>
-    <column type="0" name="Drawing" displayOrder="6" width="100" anonymous="true" id="1">
+    <column type="0" name="Drawing" displayOrder="7" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-2,3-25,26-49,50-53,54-101,102-113,114-158,159-167,168-198,199-208,209-230,231-300,301-304" val="1" id="1"/>
     </column>
     <column type="0" name="Test" displayOrder="3" width="100" anonymous="true" id="2">
@@ -558,7 +725,7 @@
      <elementSeq exposures="58" val="13" id="2"/>
      <elementSeq exposures="59" val="14" id="2"/>
     </column>
-    <column type="0" name="Mouse1" displayOrder="2" width="100" anonymous="true" id="3">
+    <column type="0" name="Mouse1" display="false" displayOrder="2" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="2" id="3"/>
      <elementSeq exposures="2" val="60" id="3"/>
      <elementSeq exposures="3" val="58" id="3"/>
@@ -767,7 +934,7 @@
      <elementSeq exposures="297,301" val="245" id="3"/>
      <elementSeq exposures="298-300" val="241" id="3"/>
     </column>
-    <column type="0" name="Mouse2" displayOrder="4" width="100" anonymous="true" id="4">
+    <column type="0" name="Mouse2" displayOrder="5" width="100" anonymous="true" id="4">
      <elementSeq exposures="1" val="1" id="4"/>
      <elementSeq exposures="2" val="77" id="4"/>
      <elementSeq exposures="3" val="78" id="4"/>
@@ -830,7 +997,7 @@
      <elementSeq exposures="170-171" val="58" id="4"/>
      <elementSeq exposures="172" val="59" id="4"/>
     </column>
-    <column type="0" name="ConstructionLines" displayOrder="5" width="100" anonymous="true" id="5">
+    <column type="0" name="ConstructionLines" displayOrder="6" width="100" anonymous="true" id="5">
      <elementSeq exposures="1" val="5" id="5"/>
      <elementSeq exposures="188" val="6" id="5"/>
      <elementSeq exposures="193-194" val="149_1" id="5"/>
@@ -933,7 +1100,7 @@
      <elementSeq exposures="101" val="35" id="7"/>
      <elementSeq exposures="102" val="36" id="7"/>
      <elementSeq exposures="103" val="37" id="7"/>
-     <elementSeq exposures="104,112" val="34" id="7"/>
+     <elementSeq exposures="104" val="104" id="7"/>
      <elementSeq exposures="105" val="42" id="7"/>
      <elementSeq exposures="106" val="239" id="7"/>
      <elementSeq exposures="107" val="89" id="7"/>
@@ -941,9 +1108,171 @@
      <elementSeq exposures="109" val="91" id="7"/>
      <elementSeq exposures="110" val="92" id="7"/>
      <elementSeq exposures="111" val="93" id="7"/>
+     <elementSeq exposures="112" val="34" id="7"/>
      <elementSeq exposures="113" val="57" id="7"/>
      <elementSeq exposures="114" val="59" id="7"/>
+     <elementSeq exposures="115" val="62" id="7"/>
+     <elementSeq exposures="116" val="63" id="7"/>
+     <elementSeq exposures="117" val="95" id="7"/>
+     <elementSeq exposures="118" val="96" id="7"/>
+     <elementSeq exposures="119" val="97" id="7"/>
      <elementSeq exposures="120" val="61" id="7"/>
+     <elementSeq exposures="121" val="98" id="7"/>
+     <elementSeq exposures="122" val="99" id="7"/>
+     <elementSeq exposures="123" val="100" id="7"/>
+     <elementSeq exposures="124,133" val="103" id="7"/>
+     <elementSeq exposures="125-126" val="108" id="7"/>
+     <elementSeq exposures="127" val="105" id="7"/>
+     <elementSeq exposures="128" val="106" id="7"/>
+     <elementSeq exposures="129" val="107" id="7"/>
+     <elementSeq exposures="130-131" val="101" id="7"/>
+     <elementSeq exposures="132" val="102" id="7"/>
+     <elementSeq exposures="134" val="111" id="7"/>
+     <elementSeq exposures="135-136" val="112" id="7"/>
+     <elementSeq exposures="137" val="113" id="7"/>
+     <elementSeq exposures="138-139" val="114" id="7"/>
+     <elementSeq exposures="140" val="115" id="7"/>
+     <elementSeq exposures="141" val="116" id="7"/>
+     <elementSeq exposures="142" val="117" id="7"/>
+     <elementSeq exposures="143-145" val="119" id="7"/>
+     <elementSeq exposures="146" val="121" id="7"/>
+     <elementSeq exposures="147-148" val="122" id="7"/>
+     <elementSeq exposures="149-150" val="123" id="7"/>
+     <elementSeq exposures="151" val="124" id="7"/>
+     <elementSeq exposures="152-153" val="125" id="7"/>
+     <elementSeq exposures="154-155" val="120" id="7"/>
+     <elementSeq exposures="156" val="126" id="7"/>
+     <elementSeq exposures="157-158" val="127" id="7"/>
+     <elementSeq exposures="159-160" val="140" id="7"/>
+     <elementSeq exposures="161-162" val="141" id="7"/>
+     <elementSeq exposures="163-164" val="142" id="7"/>
+     <elementSeq exposures="165-166" val="143" id="7"/>
+     <elementSeq exposures="167-168" val="144" id="7"/>
+     <elementSeq exposures="169-170" val="145" id="7"/>
+     <elementSeq exposures="171-172" val="149" id="7"/>
+     <elementSeq exposures="173-174" val="150" id="7"/>
+     <elementSeq exposures="175-176,177-179,186-187" val="129" id="7"/>
+     <elementSeq exposures="180,185" val="135" id="7"/>
+     <elementSeq exposures="181,184" val="136" id="7"/>
+     <elementSeq exposures="182-183" val="137" id="7"/>
+     <elementSeq exposures="188-189" val="146" id="7"/>
+     <elementSeq exposures="190" val="147" id="7"/>
+     <elementSeq exposures="191-192" val="148" id="7"/>
+     <elementSeq exposures="193-194" val="191" id="7"/>
+     <elementSeq exposures="195" val="192" id="7"/>
+     <elementSeq exposures="196-197" val="193" id="7"/>
+     <elementSeq exposures="198" val="194" id="7"/>
+     <elementSeq exposures="199-200" val="195" id="7"/>
+     <elementSeq exposures="201-202" val="196" id="7"/>
+     <elementSeq exposures="203" val="197" id="7"/>
+     <elementSeq exposures="204-206" val="198" id="7"/>
+     <elementSeq exposures="207-208" val="199" id="7"/>
+     <elementSeq exposures="209-210" val="200" id="7"/>
+     <elementSeq exposures="211" val="159" id="7"/>
+     <elementSeq exposures="212-213" val="160" id="7"/>
+     <elementSeq exposures="214" val="161" id="7"/>
+     <elementSeq exposures="215" val="163" id="7"/>
+     <elementSeq exposures="216" val="162" id="7"/>
+     <elementSeq exposures="217-218" val="164" id="7"/>
+     <elementSeq exposures="219" val="165" id="7"/>
+     <elementSeq exposures="220" val="166" id="7"/>
+     <elementSeq exposures="221" val="168" id="7"/>
+     <elementSeq exposures="222-225" val="167" id="7"/>
+     <elementSeq exposures="226-227" val="170" id="7"/>
+     <elementSeq exposures="228" val="172" id="7"/>
+     <elementSeq exposures="229-230" val="171" id="7"/>
+     <elementSeq exposures="231" val="173" id="7"/>
+     <elementSeq exposures="232" val="174" id="7"/>
+     <elementSeq exposures="233" val="175" id="7"/>
+     <elementSeq exposures="234" val="176" id="7"/>
+     <elementSeq exposures="235-236" val="177" id="7"/>
+     <elementSeq exposures="237" val="178" id="7"/>
+     <elementSeq exposures="238-239" val="179" id="7"/>
+     <elementSeq exposures="240" val="202" id="7"/>
+     <elementSeq exposures="241-242" val="203" id="7"/>
+     <elementSeq exposures="243" val="204" id="7"/>
+     <elementSeq exposures="244" val="205" id="7"/>
+     <elementSeq exposures="245" val="206" id="7"/>
+     <elementSeq exposures="246-247" val="207" id="7"/>
+     <elementSeq exposures="248" val="208" id="7"/>
+     <elementSeq exposures="249" val="209" id="7"/>
+     <elementSeq exposures="250" val="210" id="7"/>
+     <elementSeq exposures="251" val="211" id="7"/>
+     <elementSeq exposures="252-253" val="212" id="7"/>
+     <elementSeq exposures="254" val="214" id="7"/>
+     <elementSeq exposures="255" val="215" id="7"/>
+     <elementSeq exposures="256-257" val="216" id="7"/>
+     <elementSeq exposures="258" val="217" id="7"/>
+     <elementSeq exposures="259" val="218" id="7"/>
+     <elementSeq exposures="260" val="220" id="7"/>
+     <elementSeq exposures="261" val="221" id="7"/>
+     <elementSeq exposures="262-263" val="222" id="7"/>
+     <elementSeq exposures="264-265" val="223" id="7"/>
+     <elementSeq exposures="266-267" val="224" id="7"/>
+     <elementSeq exposures="268-269" val="225" id="7"/>
+     <elementSeq exposures="270" val="226" id="7"/>
+     <elementSeq exposures="271" val="227" id="7"/>
+     <elementSeq exposures="272" val="228" id="7"/>
+     <elementSeq exposures="273" val="229" id="7"/>
+     <elementSeq exposures="274-275" val="230" id="7"/>
+     <elementSeq exposures="276" val="231" id="7"/>
+     <elementSeq exposures="277" val="232" id="7"/>
+     <elementSeq exposures="278-279" val="233" id="7"/>
+     <elementSeq exposures="280-281" val="234" id="7"/>
+     <elementSeq exposures="282-283" val="235" id="7"/>
+     <elementSeq exposures="284" val="236" id="7"/>
+     <elementSeq exposures="285" val="237" id="7"/>
+     <elementSeq exposures="286-287,295,303,304" val="238" id="7"/>
+     <elementSeq exposures="288,294" val="242" id="7"/>
+     <elementSeq exposures="289,293" val="243" id="7"/>
+     <elementSeq exposures="290-292" val="240" id="7"/>
+     <elementSeq exposures="296,302" val="244" id="7"/>
+     <elementSeq exposures="297,301" val="245" id="7"/>
+     <elementSeq exposures="298-300" val="241" id="7"/>
+    </column>
+    <column type="0" name="CleanedMouse2" displayOrder="4" width="100" anonymous="true" id="8">
+     <elementSeq exposures="1" val="1" id="8"/>
+     <elementSeq exposures="2" val="2" id="8"/>
+     <elementSeq exposures="3" val="3" id="8"/>
+     <elementSeq exposures="4-5" val="4" id="8"/>
+     <elementSeq exposures="6-7,8" val="5" id="8"/>
+     <elementSeq exposures="9-10" val="6" id="8"/>
+     <elementSeq exposures="11-13" val="7" id="8"/>
+     <elementSeq exposures="14-16,26-28" val="8" id="8"/>
+     <elementSeq exposures="17-19,23-25,29-31,35-41" val="9" id="8"/>
+     <elementSeq exposures="20-22,32-34" val="10" id="8"/>
+     <elementSeq exposures="42-43" val="11" id="8"/>
+     <elementSeq exposures="44-45" val="12" id="8"/>
+     <elementSeq exposures="46-52" val="13" id="8"/>
+     <elementSeq exposures="53" val="14" id="8"/>
+     <elementSeq exposures="54,56,60" val="15" id="8"/>
+     <elementSeq exposures="55,57-59" val="16" id="8"/>
+     <elementSeq exposures="61-62" val="17" id="8"/>
+     <elementSeq exposures="63-64" val="18" id="8"/>
+     <elementSeq exposures="65-67" val="19" id="8"/>
+     <elementSeq exposures="68-70" val="20" id="8"/>
+     <elementSeq exposures="71-72" val="21" id="8"/>
+     <elementSeq exposures="73-75" val="22" id="8"/>
+     <elementSeq exposures="76-78" val="23" id="8"/>
+     <elementSeq exposures="79-82,96-106" val="24" id="8"/>
+     <elementSeq exposures="83-86,92-95" val="25" id="8"/>
+     <elementSeq exposures="87-91" val="26" id="8"/>
+     <elementSeq exposures="107" val="27" id="8"/>
+     <elementSeq exposures="108" val="28" id="8"/>
+     <elementSeq exposures="109-112" val="29" id="8"/>
+     <elementSeq exposures="113" val="31" id="8"/>
+     <elementSeq exposures="114" val="32" id="8"/>
+     <elementSeq exposures="115" val="33" id="8"/>
+     <elementSeq exposures="116" val="34" id="8"/>
+     <elementSeq exposures="117" val="35" id="8"/>
+     <elementSeq exposures="118" val="36" id="8"/>
+     <elementSeq exposures="119" val="37" id="8"/>
+     <elementSeq exposures="120-122,128-130,136-138" val="38" id="8"/>
+     <elementSeq exposures="123,127" val="39" id="8"/>
+     <elementSeq exposures="124-126" val="40" id="8"/>
+     <elementSeq exposures="131,135" val="42" id="8"/>
+     <elementSeq exposures="132-134" val="43" id="8"/>
+     <elementSeq exposures="139" val="44" id="8"/>
     </column>
    </columns>
    <options>
@@ -1111,6 +1440,7 @@
      </module>
      <module type="READ" name="Mouse1" pos="0,0,0" publishUnderTab="Mouse1">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -1275,6 +1605,110 @@
        <drawing>
         <elementMode val="true"/>
         <element col="Test">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="CleanedMouse2" pos="0,0,0" publishUnderTab="CleanedMouse2">
+      <options>
+       <version val="1"/>
+       <collapsed val="false"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="CleanedMouse2">
          <layer/>
         </element>
         <customName>
@@ -1635,9 +2069,10 @@
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="CleanedMouse" in="Composite" inport="5"/>
-     <link out="Mouse1" in="Composite" inport="4"/>
-     <link out="Test" in="Composite" inport="3"/>
+     <link out="CleanedMouse" in="Composite" inport="6"/>
+     <link out="Mouse1" in="Composite" inport="5"/>
+     <link out="Test" in="Composite" inport="4"/>
+     <link out="CleanedMouse2" in="Composite" inport="3"/>
      <link out="Mouse2" in="Composite" inport="2"/>
      <link out="ConstructionLines" in="Composite" inport="1"/>
      <link out="background" in="Composite" inport="0"/>
